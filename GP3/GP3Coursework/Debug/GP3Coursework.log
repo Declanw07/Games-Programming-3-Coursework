@@ -1,0 +1,18 @@
+﻿  MainGame.cpp
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(109): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(109): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(128): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  cTexture.cpp
+  cStarfield.cpp
+  cSphere.cpp
+  cShapes.cpp
+  cMaterial.cpp
+  cLight.cpp
+  cFontMgr.cpp
+  cFont.cpp
+  cCamera.cpp
+  GameConstants.cpp
+  GP3Coursework.vcxproj -> C:\Users\Declan\Desktop\GP3 Courswork\GP3Coursework\Debug\GP3Coursework.exe
+  GP3Coursework.vcxproj -> C:\Users\Declan\Desktop\GP3 Courswork\GP3Coursework\Debug\GP3Coursework.pdb (Partial PDB)
